@@ -47,3 +47,7 @@ form input.equal{
 form input.operator{
     color: #fa52e4;
 }
+.sourceCode{
+    box-sizing: border-box;
+    background: #e9b7e9;
+}
